@@ -12,3 +12,10 @@ dragdrop:
 editor:
 
 
+
+dependancy:
+
+jquery
+mustache
+
+
